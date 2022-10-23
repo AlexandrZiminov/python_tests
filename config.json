@@ -1,0 +1,37 @@
+{
+    "Tether_USD": {
+        "Address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+        "Name": "Tether",
+        "Decimals": 6
+    },
+    "USD_Coin": {
+        "Address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+        "Name": "USD Coin",
+        "Decimals": 6
+    },
+    "BNB": {
+        "Address": "0xB8c77482e45F1F44dE1745F52C74426C631bDD52",
+        "Name": "BNB",
+        "Decimals": 18
+    },
+    "Binance_USD": {
+        "Address": "0x4Fabb145d64652a948d72533023f6E7A623C7C53",
+        "Name": "Binance USD",
+        "Decimals": 18
+    },
+    "Matic_Token": {
+        "Address": "0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0",
+        "Name": "Polygon",
+        "Decimals": 18
+    },
+    "Dai_Stablecoin": {
+        "Address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+        "Name": "Dai",
+        "Decimals": 18
+    },
+    "SHIBA_INU": {
+        "Address": "0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE",
+        "Name": "SHIBA INU",
+        "Decimals": 18
+    }
+}
